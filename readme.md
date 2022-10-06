@@ -7,10 +7,10 @@
 
 * [Browser Extensions](#browser-extensions)
 * [Browser Customization](#browser-customization)
+* [FREE STUFF CLICK HERE](#free-stuff)
 * [Useful Software](#useful-software)
 * [Twitch-centric Things](#twitch-centric-things)
 * [Useful Websites](#websites)
-* [FREE STUFF CLICK HERE](#free-stuff)
 
 ## Browser Extensions
 
@@ -55,6 +55,36 @@
   * [Firefox Themes Store](https://addons.mozilla.org/en-US/firefox/themes/)
 * __Chromium Browsers__
   * [Chrome Themes Store](https://chrome.google.com/webstore/category/themes)
+
+## Free Stuff
+
+* #### Don't pay for a Windows license EVER: [USE THIS AMAZING TOOL (KMS38)](https://github.com/massgravel/Microsoft-Activation-Scripts)
+
+* #### Free Stuff Megalist by IgglyBuff - [Github Link](https://github.com/Igglybuff/awesome-piracy) - A list of everything piracy
+
+* #### My Personal List of Free Stuff
+  
+    ##### *DO NOT DOWNLOAD ANY SOFTWARE OR INPUT PERSONAL INFORMATION INTO THESE SITES*
+
+  * #### Sports
+  
+    * RedditStreams - [Website](https://reddit.rnbastreams.com/) / [Google Search](https://www.google.com/search?q=reddit+nba+streams) - A website that allows you to watch live sports streams. This also has links in the navigation bar for many sports and events.
+    * MethStreams - [Website](https://methstreams.com/schedules/) - A website that allows you to watch live sports streams. It has a lot of sports, and is free.
+    * CrackStreams (almost the same as methstreams) - [Google Search](https://www.google.com/search?q=crackstreams) - A website that allows you to watch live sports streams. It has a lot of sports, and is free.
+
+  * #### Books / Audio Books
+
+    * __Sci-Hub__ - [Website 1](https://sci.hubg.org/) / [Website 2](https://sci-hub.hkvisa.net/) / [Website 3](https://sci-hub.se/) / [Google Search](https://www.google.com/search?q=sci-hub) - A website that allows you to download scientific papers for free. *\*Link extension might change, just use the google search if links are broken*\*
+    * __Libgen__ - [Website 1](http://libgen.rs/) / [Website 2](https://libgen.li/) / [Website 3](https://libgen.is/) / [Google Search](https://www.google.com/search?q=libgen) - __STUDENTS CHECK HERE__. Free books and articles. You can download them in a variety of formats, including EPUB, MOBI, and PDF. *\*Link extension might change, just use the google search if links are broken*\*
+    * __z-lib__ - [Website](https://z-lib.org/) - __STUDENTS CHECK HERE__. Libgen Alternative | A website that allows you to download free books. You can download them in a variety of formats, including EPUB, MOBI, and PDF.
+    * Project Gutenberg - [Website](https://www.gutenberg.org/) - A collection of free books that are in the public domain. You can download them in a variety of formats, including EPUB, MOBI, and PDF.
+    * LibriVox - [Website](https://librivox.org/) - A collection of free audiobooks that are in the public domain. You can download them in a variety of formats, including MP3, OGG, and FLAC.
+
+  * #### TV Shows / Anime / Manga
+
+    * Flixtor - [Google Search](https://www.google.com/search?q=flixtor) / [https://flixtor.to/] - A website that allows you to watch TV shows and movies for free. *\*Link extension might change/break, just use the google search if links are broken DO NOT DOWNLOAD ANY SOFTWARE OR INPUT INFORMATION INTO THESE SITES*\*
+    * Swatchseries / Watchseries - [Google Search for swatchseries](https://www.google.com/search?q=swatchseries) / [https://swatchseries.is/] | [Google Search for watchseries](https://www.google.com/search?q=swatchseries) / [https://watchseriestv.bz/] - A website that allows you to watch TV shows for free. You can search by keyword, or browse by category. *\*Link extension might change/break, just use the google search if links are broken. DO NOT DOWNLOAD ANY SOFTWARE OR INPUT INFORMATION INTO THESE SITES*\*
+    * TheIndex - [Website](https://theindex.moe/) - Anime/Manga indexer list.
 
 ## Useful Software
 
@@ -247,33 +277,3 @@
   
   * Google Fonts - [Website](https://fonts.google.com/) - A collection of free fonts that you can use on your website. They are open-source and can be used for commercial purposes.
   * dafont - [Website](https://www.dafont.com/) - Another collection of free fonts that you can use on your website. They are open-source and can be used for commercial purposes.
-
-## Free Stuff
-
-* #### Don't pay for a Windows license EVER: [USE THIS AMAZING TOOL (KMS38)](https://github.com/massgravel/Microsoft-Activation-Scripts)
-
-* #### Free Stuff Megalist by IgglyBuff - [Github Link](https://github.com/Igglybuff/awesome-piracy) - A list of everything piracy
-
-* #### My Personal List of Free Stuff
-  
-    ##### *DO NOT DOWNLOAD ANY SOFTWARE OR INPUT PERSONAL INFORMATION INTO THESE SITES*
-
-  * #### Sports
-  
-    * RedditStreams - [Website](https://reddit.rnbastreams.com/) / [Google Search](https://www.google.com/search?q=reddit+nba+streams) - A website that allows you to watch live sports streams. This also has links in the navigation bar for many sports and events.
-    * MethStreams - [Website](https://methstreams.com/schedules/) - A website that allows you to watch live sports streams. It has a lot of sports, and is free.
-    * CrackStreams (almost the same as methstreams) - [Google Search](https://www.google.com/search?q=crackstreams) - A website that allows you to watch live sports streams. It has a lot of sports, and is free.
-
-  * #### Books / Audio Books
-
-    * __Sci-Hub__ - [Website 1](https://sci.hubg.org/) / [Website 2](https://sci-hub.hkvisa.net/) / [Website 3](https://sci-hub.se/) / [Google Search](https://www.google.com/search?q=sci-hub) - A website that allows you to download scientific papers for free. *\*Link extension might change, just use the google search if links are broken*\*
-    * __Libgen__ - [Website 1](http://libgen.rs/) / [Website 2](https://libgen.li/) / [Website 3](https://libgen.is/) / [Google Search](https://www.google.com/search?q=libgen) - __STUDENTS CHECK HERE__. Free books and articles. You can download them in a variety of formats, including EPUB, MOBI, and PDF. *\*Link extension might change, just use the google search if links are broken*\*
-    * __z-lib__ - [Website](https://z-lib.org/) - __STUDENTS CHECK HERE__. Libgen Alternative | A website that allows you to download free books. You can download them in a variety of formats, including EPUB, MOBI, and PDF.
-    * Project Gutenberg - [Website](https://www.gutenberg.org/) - A collection of free books that are in the public domain. You can download them in a variety of formats, including EPUB, MOBI, and PDF.
-    * LibriVox - [Website](https://librivox.org/) - A collection of free audiobooks that are in the public domain. You can download them in a variety of formats, including MP3, OGG, and FLAC.
-
-  * #### TV Shows / Anime / Manga
-
-    * Flixtor - [Google Search](https://www.google.com/search?q=flixtor) / [https://flixtor.to/] - A website that allows you to watch TV shows and movies for free. *\*Link extension might change/break, just use the google search if links are broken DO NOT DOWNLOAD ANY SOFTWARE OR INPUT INFORMATION INTO THESE SITES*\*
-    * Swatchseries / Watchseries - [Google Search for swatchseries](https://www.google.com/search?q=swatchseries) / [https://swatchseries.is/] | [Google Search for watchseries](https://www.google.com/search?q=swatchseries) / [https://watchseriestv.bz/] - A website that allows you to watch TV shows for free. You can search by keyword, or browse by category. *\*Link extension might change/break, just use the google search if links are broken. DO NOT DOWNLOAD ANY SOFTWARE OR INPUT INFORMATION INTO THESE SITES*\*
-    * TheIndex - [Website](https://theindex.moe/) - Anime/Manga indexer list.
