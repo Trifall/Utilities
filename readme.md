@@ -23,13 +23,13 @@
 
 * ##### Web-Security / Privacy / Passwords
   
-  * Bitwarden (Password Manager) - [Chrome/Firefox/Others](https://bitwarden.com/) - A password manager that is open-source and free. It has a browser extension, desktop app, and mobile app. Can host locally (free) or in the cloud (costs $10 USD annually for remote storage, has family plans).
-  * Privacy Badger - [Chrome/Firefox/Others](https://privacybadger.org/) - A privacy-focused adblocker. It will block trackers and ads, but it will also block things that are not ads, so you may have to whitelist some sites.
+  * Privacy Badger - [Chrome/Firefox/Others](https://privacybadger.org/) - A privacy-focused adblocker. It will block trackers and ads, but it will also block things that are not ads, so you may have to whitelist some sites. __*Might break some sites.*__
   * HTTPS Everywhere - [Chrome/Firefox/Others](https://www.eff.org/https-everywhere) - An extension that will force HTTPS on sites that support it.
+  * Bitwarden (Password Manager) - [Chrome/Firefox/Others](https://bitwarden.com/) - A password manager that is open-source and free. It has a browser extension, desktop app, and mobile app. Can host locally (free) or in the cloud (costs $10 USD annually for remote storage, has family plans).
   
 * ##### Youtube
   
-  * Truffle TV - [Chrome/Firefox/Others](https://truffle.tv/) - The Youtube counterpart of FFZ/BTTV. It adds a bunch of features and is essentially mandatory for watching livestreams on Youtube.
+  * __Truffle TV__ - [Chrome/Firefox/Others](https://truffle.tv/) - The Youtube counterpart of FFZ/BTTV. It adds a bunch of features and is essentially mandatory for watching livestreams on Youtube.
   * Multiselect for Youtube - [Chrome](https://chrome.google.com/webstore/detail/multiselect-for-youtube/gpgbiinpmelaihndlegbgfkmnpofgfei) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/multiselect-for-youtube/) - Allows you to select multiple videos on Youtube and perform actions on them. Absolutely massive time saver for sorting / handling large playlists.
   * Youtube Playlist Helper - [Chrome](https://chrome.google.com/webstore/detail/youtube-playlist-helper/ibdakohjhchaagmccfedeejmeillongg) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/youtube-playlist-helper/) - Allows you to sort your Youtube playlists by name, date added, or date published.
   * Youtube Upload Time - [Chrome](https://chrome.google.com/webstore/detail/youtube-upload-time/nenoecmaibjcahoahnmeinahlapheblg) - Adds the upload time of a video to the Youtube video page.
@@ -41,12 +41,12 @@
   
 * ##### Web Dev-esque Tools
   
-  * React Dev Tools - [Chrome](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/react-devtools/) - React Dev Tools for Chrome and Firefox. Allows you to inspect React components on a webpage.
-  * JSON Formatter - [Chrome](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/basic-json-formatter/) - Formats JSON in a readable format.
+  * __React Dev Tools__ - [Chrome](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/react-devtools/) - React Dev Tools for Chrome and Firefox. Allows you to inspect React components on a webpage.
+  * __JSON Formatter__ - [Chrome](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/basic-json-formatter/) - Formats JSON in a readable format.
 
 * ##### General / Uncategorized
   
-  * CopyMeThat - [Chrome](https://chrome.google.com/webstore/detail/copy-me-that/lgjinjcobiflbbnhenlfkcjpeeacklfl) - Extension to copy a recipe from a website and save it, removing all the junk. This is an extension counterpart to the JustTheRecipe website.
+  * CopyMeThat - [Chrome](https://chrome.google.com/webstore/detail/copy-me-that/lgjinjcobiflbbnhenlfkcjpeeacklfl) - *\*Cooking*\* Extension to copy a recipe from a website and save it, removing all the junk. This is an extension counterpart to the JustTheRecipe website.
 
 ## Browser Customization
 
@@ -70,23 +70,23 @@
   
 * ##### Text Editors - STOP USING NOTEPAD/WORDPAD, PICK ONE HERE
   
-  * NotePad++ - [Website](https://notepad-plus-plus.org/) - A free, open-source text editor. Supports a wide variety of formats, and is very fast.
+  * __NotePad++__ - [Website](https://notepad-plus-plus.org/) - A free, open-source text editor. Supports a wide variety of formats, and is very fast.
   * Visual Studio Code - [Website](https://code.visualstudio.com/) - A free text editor (primarily for coding) / IDE. Supports a wide variety of languages, has extensions, themes, built-in terminal, and more.  
   * Atom - [Website](https://atom.io/) - A free text editor.
   * Sublime Text - [Website](https://www.sublimetext.com/) - A free text editor, primarily coding based.
 
 * ##### Screenshotting tools - Quick screenshotting programs
   
-  * Greenshot - [Website](https://getgreenshot.org/) - A free, open-source screenshot tool.
+  * __Greenshot__ - [Website](https://getgreenshot.org/) - A free, open-source screenshot tool.
   * ShareX - [Website](https://getsharex.com/) - A free, open-source screenshot tool.
   * Lightshot - [Website](https://app.prntscr.com/en/index.html) A free screenshot tool.
   * Gyazo - [Website](https://gyazo.com/) A free screenshot tool.
 
 * ##### File Management / Syncing / Downloading
   
+  * __qBitTorrent__ - [Website](https://www.qbittorrent.org/) - A free, open-source torrent client. Supports a wide variety of features, and is very customizable.
   * Everything - [Website](https://www.voidtools.com/) - A free, open-source search tool. Can search for files and folders on your computer, and is very fast.
   * SyncThing - [Website](https://syncthing.net/) - A free, open-source file synchronization tool. Can be used to sync files between computers, or to sync files to a cloud service.
-  * qBitTorrent - [Website](https://www.qbittorrent.org/) - A free, open-source torrent client. Supports a wide variety of features, and is very customizable.
 
 * ##### Operating System Tools / Hardware Tools
 
@@ -102,16 +102,16 @@
 
 * ##### Video Related Software
   
-  * OBS Studio - [Website](https://obsproject.com/) - A free, open-source screen recorder, capable of livestreaming to sites like Twitch/Youtube. Supports a wide variety of sources, and is very customizable.
+  * __OBS Studio__ - [Website](https://obsproject.com/) - A free, open-source screen recorder, capable of livestreaming to sites like Twitch/Youtube. Supports a wide variety of sources, and is very customizable.
   * yt-dlp - [Github](https://github.com/yt-dlp/yt-dlp) - Command-line utility for downloading videos from youtube or other platforms. A fork of youtube-dl that is actively maintained. It supports a wider variety of sites, and has a few extra features. I recommend using a GUI for this.
-    * Stacher<span>.io - [Website](https://stacher.io/) - GUI for yt-dlp.
+    * __Stacher<span>.io__- [Website](https://stacher.io/) - GUI for yt-dlp.
   * ffmpeg - [Website](https://ffmpeg.org/) - Command-line utility for converting video files. This software is extremely powerful, but also very complicated. I recommend using a GUI for this.
-    * Handbrake - [Website](https://handbrake.fr/) - GUI for ffmpeg.
+    * __Handbrake__ - [Website](https://handbrake.fr/) - GUI for ffmpeg.
 
 * ##### Security-esque Tools
   
+  * __Malwarebytes__ - [Website](https://www.malwarebytes.com/) - A free (has paid options) anti-malware tool. Can be used to scan your computer for malware.
   * Windows 10 Debloater - [Github](https://github.com/Sycnex/Windows10Debloater) - A script to remove a lot of the bloatware that comes with Windows 10. Can be used to remove a lot of the telemetry and other things that Microsoft collects on your computer.
-  * Malwarebytes - [Website](https://www.malwarebytes.com/) - A free (has paid options) anti-malware tool. Can be used to scan your computer for malware.
   
 * ##### Remote Desktop Software (free for personal use)
   
@@ -121,7 +121,7 @@
 
 * ##### General / Uncategorized
   
-  * Microsoft PowerToys - [Github](https://github.com/microsoft/PowerToys) - A collection of utilities for Windows 10/11. Includes a window manager, OCR Text reader, Always-on-top, and more.
+  * __Microsoft PowerToys__ - [Github](https://github.com/microsoft/PowerToys) - A collection of utilities for Windows 10/11. Includes a window manager, OCR Text reader, Always-on-top, and more.
   * BetterDiscord - [Website](https://betterdiscord.app/) - *\*Can often break with discord updates (mostly broken as of Oct 5th, 2022)*\* A Discord client mod that adds a ton of features to Discord. It is a bit of a pain to install and configure, but it is worth it.
   * Calibre - [Website](https://calibre-ebook.com/) - A free ebook manager. Can be used to convert ebooks to different formats, and can be used to manage your ebook library.
   * Fusion 360 - [Website](https://www.autodesk.com/products/fusion-360/overview) - A free (with paid options) CAD program. Can be used to design 3D models, and is very powerful.
@@ -212,7 +212,7 @@
   
   * ###### Text-file Temporary Storage
 
-    * pastebin - [Website](https://pastebin.com/) - A website that allows you to paste text and share it with others. It is free, 512KB max per paste, 1 month automatic deletion.
+    * __pastebin__ - [Website](https://pastebin.com/) - A website that allows you to paste text and share it with others. It is free, 512KB max per paste, 1 month automatic deletion.
     * rentry<span>.co - [Website](https://rentry.co/) - Pastebin alternative.
 
   * ###### File Transfers
@@ -222,7 +222,7 @@
 
   * ###### File Conversions
 
-    * Cloud Convert - [Website](https://cloudconvert.com/) - A website that allows you to convert files to different formats. Supports a wide variety of formats, and is free to use.
+    * __Cloud Convert__ - [Website](https://cloudconvert.com/) - A website that allows you to convert files to different formats. Supports a wide variety of formats, and is free to use.
 
 * ##### Programming / Web Dev / Design
   
@@ -235,8 +235,8 @@
 
 * ##### Security
 
-  * Virus Total - [Website](https://www.virustotal.com/gui/home/upload) - A website that allows you to scan files for viruses. It is free, and has a browser extension.
   * __have i been pwned?__ - [Website](https://haveibeenpwned.com/) - A website that allows you to freely check if your email address or password has been compromised in a data breach.
+  * Virus Total - [Website](https://www.virustotal.com/gui/home/upload) - A website that allows you to scan files for viruses. It is free, and has a browser extension.
 
 * ##### Tracking
 
@@ -254,22 +254,26 @@
 
 * #### Free Stuff Megalist by IgglyBuff - [Github Link](https://github.com/Igglybuff/awesome-piracy) - A list of everything piracy
 
-* #### Sports
+* #### My Personal List of Free Stuff
   
-  * RedditStreams - [Website](https://reddit.rnbastreams.com/) / [Google Search](https://www.google.com/search?q=reddit+nba+streams) - A website that allows you to watch live sports streams. This also has links in the navigation bar for many sports and events.
-  * MethStreams - [Website](https://methstreams.com/schedules/) - A website that allows you to watch live sports streams. It has a lot of sports, and is free.
-  * CrackStreams (almost the same as methstreams) - [Google Search](https://www.google.com/search?q=crackstreams) - A website that allows you to watch live sports streams. It has a lot of sports, and is free.
+    ##### *DO NOT DOWNLOAD ANY SOFTWARE OR INPUT PERSONAL INFORMATION INTO THESE SITES*
 
-* #### Books / Audio Books
+  * #### Sports
+  
+    * RedditStreams - [Website](https://reddit.rnbastreams.com/) / [Google Search](https://www.google.com/search?q=reddit+nba+streams) - A website that allows you to watch live sports streams. This also has links in the navigation bar for many sports and events.
+    * MethStreams - [Website](https://methstreams.com/schedules/) - A website that allows you to watch live sports streams. It has a lot of sports, and is free.
+    * CrackStreams (almost the same as methstreams) - [Google Search](https://www.google.com/search?q=crackstreams) - A website that allows you to watch live sports streams. It has a lot of sports, and is free.
 
-  * __Sci-Hub__ - [Website 1](https://sci.hubg.org/) / [Website 2](https://sci-hub.hkvisa.net/) / [Website 3](https://sci-hub.se/) / [Google Search](https://www.google.com/search?q=sci-hub) - A website that allows you to download scientific papers for free. *\*Link extension might change, just use the google search if links are broken*\*
-  * __Libgen__ - [Website 1](http://libgen.rs/) / [Website 2](https://libgen.li/) / [Website 3](https://libgen.is/) / [Google Search](https://www.google.com/search?q=libgen) - __STUDENTS CHECK HERE__. Free books and articles. You can download them in a variety of formats, including EPUB, MOBI, and PDF. *\*Link extension might change, just use the google search if links are broken*\*
-  * __z-lib__ - [Website](https://z-lib.org/) - __STUDENTS CHECK HERE__. Libgen Alternative | A website that allows you to download free books. You can download them in a variety of formats, including EPUB, MOBI, and PDF.
-  * Project Gutenberg - [Website](https://www.gutenberg.org/) - A collection of free books that are in the public domain. You can download them in a variety of formats, including EPUB, MOBI, and PDF.
-  * LibriVox - [Website](https://librivox.org/) - A collection of free audiobooks that are in the public domain. You can download them in a variety of formats, including MP3, OGG, and FLAC.
+  * #### Books / Audio Books
 
-* #### TV Shows / Anime / Manga
+    * __Sci-Hub__ - [Website 1](https://sci.hubg.org/) / [Website 2](https://sci-hub.hkvisa.net/) / [Website 3](https://sci-hub.se/) / [Google Search](https://www.google.com/search?q=sci-hub) - A website that allows you to download scientific papers for free. *\*Link extension might change, just use the google search if links are broken*\*
+    * __Libgen__ - [Website 1](http://libgen.rs/) / [Website 2](https://libgen.li/) / [Website 3](https://libgen.is/) / [Google Search](https://www.google.com/search?q=libgen) - __STUDENTS CHECK HERE__. Free books and articles. You can download them in a variety of formats, including EPUB, MOBI, and PDF. *\*Link extension might change, just use the google search if links are broken*\*
+    * __z-lib__ - [Website](https://z-lib.org/) - __STUDENTS CHECK HERE__. Libgen Alternative | A website that allows you to download free books. You can download them in a variety of formats, including EPUB, MOBI, and PDF.
+    * Project Gutenberg - [Website](https://www.gutenberg.org/) - A collection of free books that are in the public domain. You can download them in a variety of formats, including EPUB, MOBI, and PDF.
+    * LibriVox - [Website](https://librivox.org/) - A collection of free audiobooks that are in the public domain. You can download them in a variety of formats, including MP3, OGG, and FLAC.
 
-  * Flixtor - [Google Search](https://www.google.com/search?q=flixtor) / [https://flixtor.to/] - A website that allows you to watch TV shows and movies for free. *\*Link extension might change/break, just use the google search if links are broken*\*
-  * Swatchseries (or watchseries) - [Google Search](https://www.google.com/search?q=swatchseries) / [https://swatchseries.is/] - A website that allows you to watch TV shows for free. You can search by keyword, or browse by category. *\*Link extension might change/break, just use the google search if links are broken*\*
-  * TheIndex - [Website](https://theindex.moe/) - Anime/Manga indexer list.
+  * #### TV Shows / Anime / Manga
+
+    * Flixtor - [Google Search](https://www.google.com/search?q=flixtor) / [https://flixtor.to/] - A website that allows you to watch TV shows and movies for free. *\*Link extension might change/break, just use the google search if links are broken DO NOT DOWNLOAD ANY SOFTWARE OR INPUT INFORMATION INTO THESE SITES*\*
+    * Swatchseries / Watchseries - [Google Search for swatchseries](https://www.google.com/search?q=swatchseries) / [https://swatchseries.is/] | [Google Search for watchseries](https://www.google.com/search?q=swatchseries) / [https://watchseriestv.bz/] - A website that allows you to watch TV shows for free. You can search by keyword, or browse by category. *\*Link extension might change/break, just use the google search if links are broken. DO NOT DOWNLOAD ANY SOFTWARE OR INPUT INFORMATION INTO THESE SITES*\*
+    * TheIndex - [Website](https://theindex.moe/) - Anime/Manga indexer list.
