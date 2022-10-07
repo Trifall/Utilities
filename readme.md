@@ -164,8 +164,8 @@
   * [TwitchDownloader](https://github.com/lay295/TwitchDownloader) - A GUI application that allows you to download Twitch VODs and clips, and render chats.
   * [Streamlink](https://streamlink.github.io/) - A command-line utility that pipes video streams from various services into a video player, such as VLC.
     * [Streamlink Twitch GUI](https://github.com/streamlink/streamlink-twitch-gui) - A GUI for Streamlink.
-  * [OBS Studio](  https://obsproject.com/) - The primary broadcasting and recording software that is used for Twitch Streaming.
-    * [Stream Elements Website and Plugin](https://streamelements.com/selive] - Stream Elements has everything for donations, alerts, overlays for OBS and streaming.
+  * [OBS Studio](https://obsproject.com/) - The primary broadcasting and recording software that is used for Twitch Streaming.
+    * [Stream Elements Website and Plugin](https://streamelements.com/selive) - Stream Elements has everything for donations, alerts, overlays for OBS and streaming.
   * [Restreamer](https://github.com/datarhei/restreamer) - A tool that allows you to stream to multiple platforms at once.
   * [TwitchRecover](https://github.com/TwitchRecover/TwitchRecover) - A command-line utility that allows you to download Twitch VODs and clips, including some that have been deleted or are sub-only.
   * [VodRecovery](https://github.com/ItIckeYd/VodRecovery) - Python Script that acquires the links for deleted videos and/or clips from Twitch. Can be used in tandem with TwitchRecover.
