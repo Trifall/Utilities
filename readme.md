@@ -164,14 +164,19 @@
   * [TwitchDownloader](https://github.com/lay295/TwitchDownloader) - A GUI application that allows you to download Twitch VODs and clips, and render chats.
   * [Streamlink](https://streamlink.github.io/) - A command-line utility that pipes video streams from various services into a video player, such as VLC.
     * [Streamlink Twitch GUI](https://github.com/streamlink/streamlink-twitch-gui) - A GUI for Streamlink.
+  * [OBS Studio](  https://obsproject.com/) - The primary broadcasting and recording software that is used for Twitch Streaming.
+    * [Stream Elements Website and Plugin](https://streamelements.com/selive] - Stream Elements has everything for donations, alerts, overlays for OBS and streaming.
   * [Restreamer](https://github.com/datarhei/restreamer) - A tool that allows you to stream to multiple platforms at once.
   * [TwitchRecover](https://github.com/TwitchRecover/TwitchRecover) - A command-line utility that allows you to download Twitch VODs and clips, including some that have been deleted or are sub-only.
   * [VodRecovery](https://github.com/ItIckeYd/VodRecovery) - Python Script that acquires the links for deleted videos and/or clips from Twitch. Can be used in tandem with TwitchRecover.
+  
+
 
 * #### __Websites__
   
   * [SullyGnome](https://sullygnome.com/) - A website for everything statistics and tracking related to Twitch.
   * [Twitch Tracker](https://twitchtracker.com/) - Another website for tracking and statistics related to Twitch.
+  * [OBS Studio v28 Plugin Compatibility List](https://obsproject.com/kb/obs-studio-28-plugin-compatibility) - Contains a list of the most used plugins and their OBS Studio v28 update status.
   * [7TV](https://7tv.app/) - Everything 7TV
   * [Twitch Multi Vod](https://twitchmultivod.com/) - A website that allows you to watch multiple VODs at once with syncing capabilities.
   * [Nobody.live](https://nobody.live/) - Finds a random streamer with 0 viewers on Twitch.
