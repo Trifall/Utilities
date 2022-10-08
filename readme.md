@@ -191,7 +191,7 @@
 
   * BetterTTV - [Chrome](https://chrome.google.com/webstore/detail/betterttv/ajopnjidmegmdimjlfnijceegpefgpedn) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/betterttv/) - Adds various features to Twitch.
   * Twitch Clip/Vod Sync - [Chrome](https://chrome.google.com/webstore/detail/twitch-clipvod-sync/iolfhmhipbbpacmhhffkjelgkadnffid) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/twitch-clip-vod-sync/) - Can be used to acquire the timestamps from a clip/vod of another streamer for a different perspective.
-  * Twitch Clips Helper by me - [Chrome](https://chrome.google.com/webstore/detail/twitch-clips-helper/lnnmamblgkdjladkhgjecbhgopnfhnih) - Compiles clip links that you have made on your dashboard page. Can be used in tandem with TwitchDownloader.
+  * Twitch Clips Helper by me - [Chrome](https://chrome.google.com/webstore/detail/twitch-clips-helper/lnnmamblgkdjladkhgjecbhgopnfhnih) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/twitch-clips-helper/) - Compiles clip links that you have made on your dashboard page. Can be used in tandem with TwitchDownloader.
   * Tenami TV - [Chrome/Firefox/Others/Website/App](https://tenami.tv/watch-parties) - Watch parties (HBO Max, Netflix, Crunchyroll, Disney+, and YouTube) for Twitch streams.
 
 ## Websites
