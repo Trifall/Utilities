@@ -69,7 +69,7 @@
   * #### Sports
   
     * RedditStreams - [Website](https://reddit.rnbastreams.com/) / [Google Search](https://www.google.com/search?q=reddit+nba+streams) - A website that allows you to watch live sports streams. This also has links in the navigation bar for many sports and events.
-    * MethStreams - [Website](https://methstreams.com/schedules/) - A website that allows you to watch live sports streams. It has a lot of sports, and is free.
+    * MethStreams - [Website](https://meth.amethstreams.com/) - A website that allows you to watch live sports streams. It has a lot of sports, and is free.
     * CrackStreams (almost the same as methstreams) - [Google Search](https://www.google.com/search?q=crackstreams) - A website that allows you to watch live sports streams. It has a lot of sports, and is free.
 
   * #### Books / Audio Books
